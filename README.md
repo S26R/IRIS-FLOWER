@@ -10,7 +10,7 @@ The dataset used in this project is sourced from **Kaggle**:
 
 ## 📘 What I Did
 - Loaded and analyzed the dataset using **Pandas** and **Matplotlib**
-- Trained a **Logistic Regression** model using **scikit-learn**
+- Trained a **Logistic Regression**, **Decision Tree** and **Random Forest** model using **scikit-learn**
 - Evaluated the accuracy and visualized results
 
 ## 🧠 Tech Stack
@@ -21,4 +21,4 @@ The dataset used in this project is sourced from **Kaggle**:
 - Matplotlib
 
 ## 🚀 Results
-Achieved an accuracy of **96%** on test data.
+Achieved an accuracy of **96%** on test data for all the 3 algorithms.
